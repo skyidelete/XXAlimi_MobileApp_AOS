@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">XXAlimi</string>
+
+    <string name="wait_msg">잠시만 기다려주세요...</string>
+
+    <string name="server_uri">http://10.0.2.2:8080</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="add_feed_description"> 단어를 통해 Feed를 검색하거나,\n직접 RSS 주소를 입력해 Feed를 추가해보세요.</string>
+</resources>
